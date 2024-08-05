@@ -1,3 +1,4 @@
+# Code by Karan
 import tkinter as tk
 import random
 
